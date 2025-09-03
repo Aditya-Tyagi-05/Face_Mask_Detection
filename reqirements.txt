@@ -1,0 +1,5 @@
+opencv-python
+numpy
+tensorflow==2.16.2
+PIL
+streamlit
